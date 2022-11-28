@@ -21,9 +21,11 @@ npm install
 ```sh
 npm run dev
 ```
-
+## Build by NETLIFY
 ### Compile and Minify for Production
 
 ```sh
 npm run build
 ```
+
+Link: https://vue3-deploy-project.netlify.app/
